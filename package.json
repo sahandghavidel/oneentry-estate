@@ -12,7 +12,8 @@
     "next": "14.2.4",
     "oneentry": "^1.0.74",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-icons": "^5.2.1"
   },
   "devDependencies": {
     "eslint": "^8",
